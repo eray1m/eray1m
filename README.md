@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Front-End, Back-End, Mobile App Development**
 
-- 👨‍💻 Check out my portfolio for more information; [eray1m.github.io](eray1m.github.io)
+- 👨‍💻 Check out my portfolio for more information; [eray1m.github.io](https://eray1m.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
